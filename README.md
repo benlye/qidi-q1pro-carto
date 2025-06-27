@@ -1,6 +1,10 @@
 # Installing a Cartographer on a Qidi Q1 Pro
 I could not find a comprehensive guide for installing a Cartographer probe on the Q1 Pro so have documented my installation here.
 
+<p align="center">
+  <img src="img/toolhead_with_carto.jpg" width="250" title="Q1 Pro Toolhead with Cartographer" alt="Q1 Pro Toolhead with Cartographer">
+</p>
+
 ## Prerequisites
 You need a few bits and pieces to get started.
 ### 1. Mainline Klipper
