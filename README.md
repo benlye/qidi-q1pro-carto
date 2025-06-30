@@ -23,6 +23,7 @@ Obviously a Cartographer probe is required. You can buy one from [their website]
 - Choose USB firmware preinstalled
 
 **Note:** 
+- The regular version of the Cartographer will work if you have one. The right angle is a cleaner fit.
 - If you buy the flat pack and assemble it you will need to reverse the order of the pins in the JST connector on the USB cable
 - Ensure that the pins on the underside of the probe are trimmed close to the probe - around 1mm - this is to ensure that they don't foul the nozzle wiper
 
