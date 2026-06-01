@@ -22,10 +22,11 @@ Obviously a Cartographer probe is required. You can buy one from [their website]
 - Get the [Right Angle](https://cartographer3d.com/products/cartographer-probe-v3-with-adxl345-right-angle-can-usb) version (or [Flat Pack](https://cartographer3d.com/products/cartographer-probe-v3-with-adxl345-flat-pack-both-can-usb) and assemble as right angle)
 - Choose USB firmware preinstalled
 
-**Note:** 
-- The regular version of the Cartographer will work if you have one. The right angle is a cleaner fit.
-- If you buy the flat pack and assemble it you will need to reverse the order of the pins in the JST connector on the USB cable
-- Ensure that the pins on the underside of the probe are trimmed close to the probe - around 1mm - this is to ensure that they don't foul the nozzle wiper
+**Note:**
+- I installed the V3. The [V4 (standard)](https://cartographer3d.com/products/cartographer-v4-aio-standard) should also work.
+- The regular version of the Cartographer V3 will work if you have one. The right angle is a cleaner fit.
+- If you buy the flat pack and assemble it you will need to reverse the order of the pins in the JST connector on the USB cable.
+- Ensure that the pins on the underside of the probe are trimmed close to the probe - around 1mm - this is to ensure that they don't foul the nozzle wiper.
 
 ### 3. A Mount for the Probe
 Download and print the [Q1 Pro Cartographer mount](https://www.printables.com/model/1205523-qidi-q1-pro-cartographer-mount).
